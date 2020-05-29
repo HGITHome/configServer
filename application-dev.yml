@@ -1,13 +1,4 @@
 hello: hello spring-cloud-config-client-dev.yml
 server:
   port: 3344
-spring:
-  application:
-    name: springcloud-config
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/HGITHome/configServer.git
-          username: 13631789659
-          password: heyutang=135
+
