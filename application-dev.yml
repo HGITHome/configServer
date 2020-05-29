@@ -1,4 +1,4 @@
-hello: hello world
+hello: hello spring-cloud-config-client-dev.yml
 server:
   port: 3344
 spring:
