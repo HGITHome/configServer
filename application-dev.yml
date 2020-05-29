@@ -1,4 +1,4 @@
-
+hello: hello world
 server:
   port: 3344
 spring:
